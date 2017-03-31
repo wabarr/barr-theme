@@ -1,0 +1,10 @@
+ /* Navbar */
+ 
+ .navbar {
+	 padding:1em 0em 0em 0em;
+ }
+ 
+
+ .navbar .col::hover  {
+	 border-color:rgba(18, 152, 16, 0.5);
+ }
