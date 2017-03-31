@@ -2,4 +2,10 @@
 layout: default
 ---
 
-### Here you go! A website!
+### Your website!
+
+This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph.This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph.
+
+This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph. This is another paragraph.
+
+<img class="responsive-img materialboxed" src="images/fieldwork.jpg">
